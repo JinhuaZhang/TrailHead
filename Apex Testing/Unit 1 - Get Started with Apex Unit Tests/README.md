@@ -2,7 +2,7 @@ Create and install a simple Apex class to test if a date is within a proper rang
 
 Create an Apex class:  
 Name: VerifyDate  
-Code: Copy from [GitHub](https://github.com/developerforce/trailhead-code-samples/blob/master/VerifyDate.cls)
+Code: Copy from [GitHub](https://github.com/developerforce/trailhead-code-samples/blob/master/VerifyDate.cls) (VerifyDate.cls is already copied in this folder)
 Place the unit tests in a separate test class:  
 Name: TestVerifyDate  
 Goal: 100% code coverage  
