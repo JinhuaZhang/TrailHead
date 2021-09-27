@@ -2,13 +2,13 @@ Create an Apex trigger that sets an account’s Shipping Postal Code to match th
 
 Pre-Work:  
 Add a checkbox field to the Account object:  
-    Field Label: Match Billing Address  
-    Field Name: Match_Billing_Address  
-    Note: The resulting API Name should be Match_Billing_Address__c.  
+> Field Label: Match Billing Address  
+> Field Name: Match_Billing_Address  
+> Note: The resulting API Name should be Match_Billing_Address__c.  
 
 Create an Apex trigger:  
-    Name: AccountAddressTrigger  
-    Object: Account  
-    Events: before insert and before update  
-    Condition: Match Billing Address is true  
-    Operation: set the Shipping Postal Code to match the Billing Postal Code  
+> Name: AccountAddressTrigger  
+> Object: Account  
+> Events: before insert and before update  
+> Condition: Match Billing Address is true  
+> Operation: set the Shipping Postal Code to match the Billing Postal Code  
