@@ -24,8 +24,7 @@ private class TestRestrictContactByName {
             }
         }
 
-        System.assertEquals(150, count, 'ERROR: Trigger restriction not applied to all new contacts');
-
+        System.assertEquals(150, count, 'ERROR: Trigger restriction is not applied to all new contacts');
 
     }
 }
