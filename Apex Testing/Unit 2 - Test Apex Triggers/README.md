@@ -2,7 +2,7 @@ Create and install a simple Apex trigger which blocks inserts and updates to any
 
 Create an Apex trigger on the Contact object  
 > Name: RestrictContactByName  
-> Code: Copy from GitHub  
+> Code: Copy from [GitHub](https://github.com/developerforce/trailhead-code-samples/blob/master/RestrictContactByName.cls) (RestrictContactByName.cls is already copied to this folder)  
 
 Place the unit tests in a separate test class  
 > Name: TestRestrictContactByName  
