@@ -10,6 +10,6 @@ Use a Public Static Method to consistently generate contacts with unique first n
 > Return Type: List  
 
 
-Note:  
+**Note:**  
 > 1. TestUsingRandomContactFactory is to test if the factory works, it is completely optional  
-> 2. As of Sep/2021, if @isTest annotation is added at the beginning of RandomContactFactory class, trailhead will fail checking the challenge. 
+> 2. As of Sep/2021, if @isTest annotation is added at the beginning of RandomContactFactory class, trailhead will **FAIL** checking the challenge. 
