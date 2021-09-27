@@ -19,4 +19,4 @@ Create unit tests:
 **Note**
 1. Call https://th-apex-http-callout.herokuapp.com/animals/id in web browser with id = 1
 2. The browser will return this JSON: {"animal":{"id":1,"name":"chicken","eats":"chicken food","says":"cluck cluck"}}
-3. Test the JSON first so you know how to get the name
+3. Do this first so you know the JSON structure to get the name
